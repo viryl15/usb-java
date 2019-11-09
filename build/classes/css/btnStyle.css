@@ -1,0 +1,26 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 17 oct. 2019, 17:17:03
+    Author     : DYLAN
+*/
+
+
+.btn{
+    -fx-background-color:  #25ef76;
+    -fx-border-radius: 20px;
+    -fx-alignment:  center;
+    
+}
+.btn:hover{
+    -fx-background-color:  #00fd21; 
+    /*-fx-rotate: 20;*/
+    /*-fx-arc-width: 700px;*/
+    
+}
+#btnCancel{
+    -fx-background-color:#ff6666
+}
